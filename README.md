@@ -35,4 +35,3 @@ The output is a tidy dataset: **tidy\_dataset.txt**
 12. Create a tidy dataset (**dat\_avg**) with the mean of each variable
     per subject and activity
 13. Write out the tidy dataset (**tidy\_dataset.txt**)
-# GettingAndCleaningDataProject
