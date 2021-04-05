@@ -7,11 +7,11 @@ average measurements for one subject and activity.
 Below are the column descriptions for **dat\_avg** (and
 **tidy\_dataset.txt**):
 
-*subject*
+***subject***
 
 -   30 subjects, numbered 1 through 30
 
-*activity*
+***activity***
 
 -   Six activity types:
 
@@ -22,7 +22,8 @@ Below are the column descriptions for **dat\_avg** (and
     5.  STANDING
     6.  LAYING
 
-66 columns of measurement data:
+***66 columns of measurement data***:  
+(Each variable begins with ‘t’ for time or ‘f’ for frequency)
 
 -   *tBodyAcc.mean.X*
 -   *tBodyAcc.mean.Y*
